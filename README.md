@@ -1,7 +1,4 @@
-I'm star.
-I like kpop.
-she/her
-that's it.
+HI IM STAR
 
 <!---
 starxstar0910/starxstar0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
